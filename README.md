@@ -21,7 +21,11 @@ A visual workflow builder where each node represents an AI decision step that ev
 
 ## Screenshots
 
-!['AI Decision Flow Canvas'](./2026-10-15_AI-decision-flow.png)
+!['AI Decision Flow Canvas'](./images/2026-10-15_AI-decision-flow.png)
+
+!['Inngest Dev Server runs'](./images/ai-decision-flow_inngest-devserver%201.png)
+
+!['Inngest Dev Server Detailed'](./images/ai-decision-flow_inngest-devserver.png)
 
 ## Setup
 
